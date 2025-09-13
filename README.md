@@ -1,2 +1,7 @@
-# parcial1teorico-desoft2
-Parcial teorico desarrollo de softwatre
+
+# Plataforma Digital de Atención Ciudadana - Análisis de Arquitectura
+Humberto Nicolás Fajardo Vallejos 
+
+Id : 409483
+
+Video: 
